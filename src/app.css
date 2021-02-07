@@ -1,0 +1,23 @@
+
+:root {
+    --lcars-dark-orange: #ff9900;
+    --lcars-med-orange: #ff9a66;
+    --lcars-yellow: #ffcc9a;
+    --lcars-blue: #9999cd;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+
+.lcarsDarkOrange {
+    background-color: var(--lcars-dark-orange);
+}
+.lcarsMedOrange {
+    background-color: var(--lcars-med-orange);
+}
+.lcarsBlue {
+    background-color: var(--lcars-blue);
+}
