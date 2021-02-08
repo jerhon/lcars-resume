@@ -1,0 +1,64 @@
+{
+  "name": "John Smith",
+  "mission": "To explore a new opportunity, and to boldy accomplish tasks that no one has attempted before.",
+  "role": "Skilled Diplomat",
+  "experience": [
+    {
+      "company": "United Federation of Planets",
+      "role": "Ambassador to the Klingon Empire",
+      "tasks": [
+        "Oversaw relations with the Klingon Empire",
+        "Avoided new wars for 10 years.",
+        "Acted as arbitrator in cases against Starfleet individuals."
+      ],
+      "from": "2020.205",
+      "to": "2013.205"
+    },
+    {
+      "company": "United Federation of Planets",
+      "role": "Ambassador to the Romulan Empire",
+      "from": "2007.0102",
+      "to": "2008.0102",
+      "tasks": [
+        "Promoted inter-species dialog between the Vulcans and Romulans.",
+        "Avoided new wars for 15 years.",
+        "Acted as liaison for Federation citizens visiting Romulus."
+      ]
+    },
+    {
+      "company": "United Federation of Planets",
+      "role": "Junior Ambassador",
+      "from": "2009.4392",
+      "to": "2010.342",
+      "tasks": [
+        "Specialized in aiding senior ambassadors in resolving geopolitical and interstellar squabbles.",
+        "Prevent armed conflicts.",
+        "Oversee second contact with new civilizations."
+      ]
+    },
+    {
+      "company": "United Federation of Planets",
+      "role": "Ensign on the U.S.S. Spartacus",
+      "from": "2007.0102",
+      "to": "2008.0102",
+      "tasks": [
+        "Successfully completed multiple away missions adhering to all applicable safety protocols. ",
+        "Jefferies tube maintenance.",
+        "Replicated the captain's tea as requested.",
+        "No red shirt fatalities on missions I commanded."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "name": "Starfleet Academy",
+      "degree": "Officer's Training",
+      "from": "2000.0234",
+      "to": "2004.4123",
+      "notes": [
+        "GPA 3.6",
+        "Interned with Daystrom Institute"
+      ]
+    }
+  ]
+}

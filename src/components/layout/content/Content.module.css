@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    flex: 1 0 0;
+
+    /* I'm at a loss for why this is needed currently */
+    height: 0;
+}
+
+/* Contained within .container */
+.sidebar {
+    flex: 0 0 auto;
+    width: 180px;
+}
+.content {
+    font-family: sans-serif;
+    flex: 1 0 0;
+    overflow-y: scroll;
+    padding-right: 20px;
+    margin: 25px 25px -25px;
+}
+
+.content::-webkit-scrollbar {
+    background-color: transparent;
+}
+.content::-webkit-scrollbar-track {
+    /* background-color: var(--lcars-yellow); */
+}
+.content::-webkit-scrollbar-thumb {
+    background-color: var(--lcars-yellow);
+    border-radius: 25px;
+}

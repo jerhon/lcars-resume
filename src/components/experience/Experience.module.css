@@ -1,0 +1,14 @@
+.container {
+    margin: 20px;
+}
+
+.roles {
+    flex: 1 0 auto;
+    margin: 5px;
+}
+
+.dates {
+    max-width: 100px;
+    flex: 1 0 auto;
+    margin: 5px;
+}

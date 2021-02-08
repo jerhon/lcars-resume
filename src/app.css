@@ -4,11 +4,16 @@
     --lcars-med-orange: #ff9a66;
     --lcars-yellow: #ffcc9a;
     --lcars-blue: #9999cd;
+    --lcars-med-blue: #6460cc;
 }
 
 body {
     background-color: black;
     color: white;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 20px;
 }
 
 
